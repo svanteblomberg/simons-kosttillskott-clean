@@ -27,7 +27,7 @@ export default function Home() {
       id: 2,
       name: 'Magnesium Plus',
       price: 149,
-      description: 'För bättre sömn och muskelåterhämtning.',
+      description: 'knark.',
       image: '/magnesium.jpg',
     },
     // Fler produkter? Lägg till här!
